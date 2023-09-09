@@ -1,0 +1,3 @@
+[[Crypto]]
+
+Long story short, zero-knowledge proofs enable verifiable computing. You can think of this as a way to ensure which computation was done and that the result of the computation is correct. One way for computers to agree on a result of a computation is for each machine to run the same code and compare the results. Depending on the computation, this can be expensive for systems with limited resources. By using zero-knowledge proof frameworks like RISC Zero’s, machines can ensure that the computation executed correctly by checking the mathematical validity of the proof instead of running the same code.

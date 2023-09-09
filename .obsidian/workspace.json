@@ -1,0 +1,196 @@
+{
+  "main": {
+    "id": "6a5fe1bc842baedd",
+    "type": "split",
+    "children": [
+      {
+        "id": "f68b13dd99a688ca",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "87e7723493e77daa",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "graph",
+              "state": {},
+              "pinned": true
+            }
+          },
+          {
+            "id": "a180ca1984e1aa58",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Ethereum/ERC-EIPs/ERC-20.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "23830ecc60773735",
+    "type": "split",
+    "children": [
+      {
+        "id": "978a93c339b41690",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f2bc0582fd241245",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "b2b4a1b24260b684",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "e92dde4e12502b3f",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "e33a1964eadf37f7",
+    "type": "split",
+    "children": [
+      {
+        "id": "d348e6379213817b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9ed73cc5fb2670b1",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "f69628188bfe18be",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "bf2aa0be7675fb08",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "f0b9e0d6e83ac76f",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "87e7723493e77daa",
+  "lastOpenFiles": [
+    "Ethereum/ERC-EIPs/ERC-20.md",
+    "Ethereum/ERC-EIPs/ERC-4337.md",
+    "Ethereum/ERC-EIPs/ERC-6551.md",
+    "Ethereum/ERC-EIPs/ERC-EIPs.md",
+    "Ethereum/Solidity/Patterns/CEI check-effect-interaction.md",
+    "Ethereum/Solidity/Patterns/Mutex Pattern.md",
+    "Ethereum/Solidity/Patterns/Patterns.md",
+    "Ethereum/Solidity/Patterns/Pull Over Push Withdrawal.md",
+    "Ethereum/Solidity/Code Search Tools.md",
+    "Ethereum/Solidity/Code style.md",
+    "Ethereum/Solidity/CREATE & CREATE2.md",
+    "Ethereum/Solidity/Gas golfing.md",
+    "Ethereum/Solidity/Reentrancy.md",
+    "Ethereum/Solidity/SWC-133 Hash Collisions.md",
+    "Ethereum/Solidity/Solidity Dev Interview.md",
+    "Ethereum/Account Abstraction.md",
+    "Ethereum/Contract Deploy Checklist.md",
+    "Ethereum/Debug Tx.md",
+    "Ethereum/dYdX.md",
+    "Ethereum/eth_call.md",
+    "Ethereum/Ethereum.md",
+    "Ethereum/LayerZero.md",
+    "Ethereum/Lens Protocol.md",
+    "Ethereum/Uniswap V3 Dev Book.md",
+    "Ethereum/Seaport Protocol.md",
+    "Bitcoin/Bitcoin.md",
+    "Sources/Pasted image 20230313115119.png",
+    "Sources/Pasted image 20230720172336.png",
+    "Sources",
+    "New folder",
+    "ZK",
+    "Token Engineering",
+    "Security",
+    "Ethereum/Solidity/Patterns",
+    "Ethereum/Solidity",
+    "Ethereum/ERC-EIPs",
+    "Ethereum",
+    "Bitcoin"
+  ]
+}
